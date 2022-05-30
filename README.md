@@ -5,3 +5,4 @@ This instructor repo is created as part of the course tiled "Data Structures and
 [01_letter_count.c](01_letter_count.c)  
 [02_insertion_sort.c](02_insertion_sort.c)  
 [ADD,DELETE,MODIFYANELEMENTINARRAY.C](ADD%2CDELETE%2CMODIFYANELEMENTINARRAY.C)
+[ADD,DELETE,MODIFYINSINGLELINKEDLIST.C](ADD%2CDELETE%2CMODIFYINSINGLELINKEDLIST.C)
