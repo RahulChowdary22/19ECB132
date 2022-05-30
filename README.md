@@ -10,3 +10,4 @@ This instructor repo is created as part of the course tiled "Data Structures and
 [LINEARDATASTRUCTURE.C](https://github.com/RahulChowdary22/19ECB132/blob/main/LINEARDATASTRUCTURE.C)
 [binarytree.c](https://github.com/RahulChowdary22/19ECB132/blob/main/binarytree.c)
 [fibonacciserieswithoutrecurssion.c](https://github.com/RahulChowdary22/19ECB132/blob/main/fibonacciserieswithoutrecurssion.c)
+[swappingnumbers.c](https://github.com/RahulChowdary22/19ECB132/blob/main/swappingnumbers.c)
