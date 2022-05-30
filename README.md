@@ -9,3 +9,4 @@ This instructor repo is created as part of the course tiled "Data Structures and
 [DOUBLELINKEDLIST.C](https://github.com/RahulChowdary22/19ECB132/blob/main/DOUBLELINKEDLIST.C)
 [LINEARDATASTRUCTURE.C](https://github.com/RahulChowdary22/19ECB132/blob/main/LINEARDATASTRUCTURE.C)
 [binarytree.c](https://github.com/RahulChowdary22/19ECB132/blob/main/binarytree.c)
+[fibonacciserieswithoutrecurssion.c](https://github.com/RahulChowdary22/19ECB132/blob/main/fibonacciserieswithoutrecurssion.c)
