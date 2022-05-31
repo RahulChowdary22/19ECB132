@@ -28,3 +28,6 @@ This instructor repo is created as part of the course tiled "Data Structures and
 [elementinarray.c](https://github.com/RahulChowdary22/19ECB132/blob/main/elementinanarray.c)
 
 [functions.c](https://github.com/RahulChowdary22/19ECB132/blob/main/functions.c)
+
+[leapyear.c](https://github.com/RahulChowdary22/19ECB132/blob/main/leapyear.c)
+
