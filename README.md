@@ -25,3 +25,5 @@ This instructor repo is created as part of the course tiled "Data Structures and
 
 [doublelinkedlist.c](https://github.com/RahulChowdary22/19ECB132/blob/main/doublelinkedlist.c)
 
+[elementinarray.c](https://github.com/RahulChowdary22/19ECB132/blob/main/elementinanarray.c)
+
