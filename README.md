@@ -3,9 +3,7 @@ This instructor repo is created as part of the course tiled "Data Structures and
 
 ## Index  
 [01_letter_count.c](01_letter_count.c)  
-[02_insertion_sort.c](02_insertion_sort.c)  
-
-[LINEARDATASTRUCTURE.C](https://github.com/RahulChowdary22/19ECB132/blob/main/LINEARDATASTRUCTURE.C)
+[02_insertion_sort.c](02_insertion_sort.c) 
 
 [binarytree.c](https://github.com/RahulChowdary22/19ECB132/blob/main/binarytree.c)
 
