@@ -23,3 +23,5 @@ This instructor repo is created as part of the course tiled "Data Structures and
 
 [bitwiseor.c](https://github.com/RahulChowdary22/19ECB132/blob/main/bitwiseor.c)
 
+[doublelinkedlist.c](https://github.com/RahulChowdary22/19ECB132/blob/main/doublelinkedlist.c)
+
