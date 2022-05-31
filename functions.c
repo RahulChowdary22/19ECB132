@@ -43,3 +43,6 @@ int checkPrimeNumber(int n) {
 
   return flag;
 }
+
+Enter two positive integers: 1 3
+Prime numbers between 1 and 3 are: 2
