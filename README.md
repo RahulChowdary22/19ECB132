@@ -18,3 +18,7 @@ This instructor repo is created as part of the course tiled "Data Structures and
 [fibonacciserieswithoutrecurssion.c](https://github.com/RahulChowdary22/19ECB132/blob/main/fibonacciserieswithoutrecurssion.c)
 
 [swappingnumbers.c](https://github.com/RahulChowdary22/19ECB132/blob/main/swappingnumbers.c)
+
+[bitwise.c](https://github.com/RahulChowdary22/19ECB132/blob/main/bitwise.c)
+
+
