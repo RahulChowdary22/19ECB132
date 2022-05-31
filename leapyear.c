@@ -25,3 +25,6 @@ int main() {
 
    return 0;
 }
+
+Enter a year: 2004
+2004 is a leap year.
