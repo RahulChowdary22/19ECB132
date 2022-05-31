@@ -24,3 +24,5 @@ This instructor repo is created as part of the course tiled "Data Structures and
 [leapyear.c](https://github.com/RahulChowdary22/19ECB132/blob/main/leapyear.c)
 
 [reverselinkedlist.c](https://github.com/RahulChowdary22/19ECB132/blob/main/reverselinkedlist.c)
+
+[pointer.c](https://github.com/RahulChowdary22/19ECB132/blob/main/pointer.c)
