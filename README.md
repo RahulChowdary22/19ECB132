@@ -26,3 +26,5 @@ This instructor repo is created as part of the course tiled "Data Structures and
 [reverselinkedlist.c](https://github.com/RahulChowdary22/19ECB132/blob/main/reverselinkedlist.c)
 
 [pointer.c](https://github.com/RahulChowdary22/19ECB132/blob/main/pointer.c)
+
+[insertionsort.c](https://github.com/RahulChowdary22/19ECB132/blob/main/insertionsort.c)
