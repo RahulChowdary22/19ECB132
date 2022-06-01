@@ -6,6 +6,7 @@ int main()
 	printf("a=%d,b=%d",a,b);
 	printf("\n r = %d",r);
 }
-
+/*output
 a=4,b=5
  r = 5
+*/
