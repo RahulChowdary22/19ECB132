@@ -5,7 +5,7 @@ This instructor repo is created as part of the course tiled "Data Structures and
 [01_letter_count.c](01_letter_count.c)  
 [02_insertion_sort.c](02_insertion_sort.c) 
 
-[binarytree.c](https://github.com/RahulChowdary22/19ECB132/blob/main/binarytree.c)
+[binarytree.c](binarytree.c)
 
 [fibonacciserieswithoutrecurssion.c](https://github.com/RahulChowdary22/19ECB132/blob/main/fibonacciserieswithoutrecurssion.c)
 
