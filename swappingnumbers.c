@@ -9,6 +9,7 @@ a=a-b;//a=20 (30-10)
 printf("\nAfter swap a=%d b=%d",a,b);    
 return 0;  
 }   
-
+/*output
 Before swap a=10 b=20
 After swap a=20 b=10
+  */
