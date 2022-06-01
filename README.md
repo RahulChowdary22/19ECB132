@@ -28,3 +28,5 @@ This instructor repo is created as part of the course tiled "Data Structures and
 [pointer.c](https://github.com/RahulChowdary22/19ECB132/blob/main/pointer.c)
 
 [insertionsort.c](https://github.com/RahulChowdary22/19ECB132/blob/main/insertionsort.c)
+
+[middlelinkedlist.c](https://github.com/RahulChowdary22/19ECB132/blob/main/middlelinkedlist.c)
